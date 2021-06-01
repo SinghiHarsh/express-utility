@@ -1,0 +1,19 @@
+{
+  "name": "express-utility",
+  "version": "1.0.0",
+  "description": "Framework for Express-Utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SinghiHarsh/express-utility.git"
+  },
+  "author": "Harsh Singhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SinghiHarsh/express-utility/issues"
+  },
+  "homepage": "https://github.com/SinghiHarsh/express-utility#readme"
+}
